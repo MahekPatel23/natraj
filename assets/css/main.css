@@ -216,7 +216,7 @@ h1 {
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 43px;
   line-height: 130%;
 }
 @media (max-width: 1199px) {
@@ -7925,3 +7925,6 @@ p.sticky-label {
   display: block;
 }
 
+.n{
+  color: #fff;
+}
